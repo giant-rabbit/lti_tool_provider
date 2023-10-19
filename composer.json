@@ -9,7 +9,6 @@
     "source": "https://git.drupalcode.org/project/lti_tool_provider"
   },
   "require": {
-    "php": "^7.3",
     "ext-oauth": "*"
   }
 }
